@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Früchte Rate Spiel</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Nunito&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="game-container">
+        <h1>Früchte Rate Spiel</h1>
+        <p>Kennst du dieses Früchtchen?</p>
+
+        <div class="container"><img src="./img/dana.png" id="bild" /></div>
+
+        <div class="bestätigungs-container" id="bestätigung">
+          <div class="textfield-container">
+            <input type="text" ,name="Name" placeholder="Name" id="nameText" />
+            <input
+              type="text"
+              name="Frucht"
+              placeholder="Frucht"
+              id="fruchtText"
+            />
+          </div>
+
+          <button onclick="checkSolution()">Bestätigen</button>
+        </div>
+
+        <div class="lösungs-container" id="lösung">
+          <p>Richtig</p>
+          <p>Das ist Brombeere Dana</p>
+          <p>Erfolgsquote : 0% ( 0 von 0 erraten )</p>
+          <button onclick="nextQuestion()">Nächste</button>
+        </div>
+      </div>
+    </div>
+    <script src="./index.js"></script>
+  </body>
+</html>
