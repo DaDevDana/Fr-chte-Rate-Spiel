@@ -1,4 +1,7 @@
 
+// Halli Hallo Hiveria, du bist cool und so hehe
+
+
 var image = document.getElementById("bild");
 var bestätigung = document.getElementById("bestätigung");
 var lösung = document.getElementById("lösung");
