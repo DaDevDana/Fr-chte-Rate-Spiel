@@ -25,7 +25,7 @@ const shuffleArray = array => {
 const images = [
     
     {
-        src : "./img/1_Wassermelone_BEOddsome.jpg",
+        src : "./img/1_Wassermelone_BeOddsome.jpg",
         name : "BeOddsome",
         frucht : "Wassermelone"
     },
