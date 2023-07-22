@@ -158,6 +158,21 @@ const images = [
         src : "./img/27_Kurkuma_curreypulver.jpg",
         name: "Currey",
         frucht:"Kurkuma"
+    },
+    {
+        src:"./img/28_Banane_Frank_the_Tank.jpg",
+        name:"Frank",
+        frucht :"Banane"
+    },
+    {
+        src: "./img/29_Kartoffel_kartoffelknecht123.jpg",
+        name:"Kartoffel",
+        frucht:"Kartoffel"
+    },
+    {
+        src:"./img/30_Pflaume_katanaron.jpg",
+        name:"Kata",
+        frucht:"Pflaume"
     }
 
     
