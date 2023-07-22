@@ -165,7 +165,7 @@ const images = [
         frucht :"Banane"
     },
     {
-        src: "./img/29_Kartoffel_kartoffelknecht123.jpg",
+        src: "./img/29_Kartoffel_Kartoffelknecht123.jpg",
         name:"Kartoffel",
         frucht:"Kartoffel"
     },
