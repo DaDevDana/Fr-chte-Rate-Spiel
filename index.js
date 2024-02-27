@@ -2,6 +2,7 @@
 // Halli Hallo Hiveria, du bist cool und so hehe
 
 
+
 var image = document.getElementById("bild");
 var bestätigung = document.getElementById("bestätigung");
 var lösung = document.getElementById("lösung");
@@ -116,7 +117,7 @@ const images = [
     },
     {
         src : "./img/19_Apfel_LorConan.jpg",
-        name: "Conan",
+        name: "Lor",
         frucht:"Apfel"
     },
     {
@@ -141,7 +142,7 @@ const images = [
     },
     {
         src : "./img/24_Brombeere_Comedio_dana.jpg",
-        name: ".Dana",
+        name: "Dana",
         frucht:"Brombeere"
     },
     {
@@ -173,11 +174,186 @@ const images = [
         src:"./img/30_Pflaume_katanaron.jpg",
         name:"Kata",
         frucht:"Pflaume"
+    },
+    {
+        src:"./img/31_Avocado_BlackBean.png",
+        name:"Bean",
+        frucht:"Avocado"
+    },
+    {
+        src:"./img/32_Traube_SilentPanda.png",
+        name:"Silent Panda",
+        frucht:"Traube"
+    },
+    {
+        src:"./img/33_Sternfrucht_IchDerValerius.png",
+        name:"Vale",
+        frucht:"Sternfrucht"
+    },
+    {
+        src:"./img/34_Gurke_Trasoran.png",
+        name:"Trasoran",
+        frucht:"Gurke"
+    },
+    {
+        src:"./img/35_Jackfruit_Baldur_GDS.png",
+        name:"Baldur",
+        frucht:"Jackfruit"
+    },
+    {
+        src:"./img/36_Kaktusfrucht_Opanzel.png",
+        name:"Opanzel",
+        frucht:"Kaktusfrucht"
+    },
+    {
+        src:"./img/37_Ananas_Hank_V2.png",
+        name:"Hank",
+        frucht:"Ananas"
+    },
+    {
+        src:"./img/38_Karotte_Ruhndra.png",
+        name:"Ruhndra",
+        frucht:"Karotte"
+    },
+    {
+        src:"./img/39_Pilz_thecreepyjester.png",
+        name:"Jester",
+        frucht:"Pilz"
+    },
+    {
+        src:"./img/40_Radieschen_Hxring.png",
+        name:"Hxring",
+        frucht:"Radieschen"
+    },
+    {
+        src:"./img/41_Brokkoli_KlaraKofi.png",
+        name:"Klara",
+        frucht:"Kofi"
+    },
+    {
+        src:"./img/42_Chili_xLilithy.png",
+        name:"xLilithy",
+        frucht:"Chili"
+    },
+    {
+        src:"./img/43_Eisbergsalat_niro00035.png",
+        name:"Niro",
+        frucht:"Eisbergsalat"
+    },
+    {
+        src:"./img/44_Grapefruit_EyelessWolfi.png",
+        name:"Wolfi",
+        frucht:"Grapefruit"
+    },
+    {
+        src:"./img/45_Apfel_EciWoelfchen.png",
+        name:"Eci",
+        frucht:"Apfel"
+    },
+    {
+        src:"./img/46_Mangoldl_Gecko.png",
+        name:"Gecko",
+        frucht:"Mangold"
+    },
+    {
+        src:"./img/47_Chinakohl_Mehtin.png",
+        name:"Mehtin",
+        frucht:"Chinakohl"
+    },
+    {
+        src:"./img/48_Physalis_Einspielfliege.png",
+        name:"Fliege",
+        frucht:"Physalis"
+    },
+    {
+        src:"./img/49_Zuckerrübe_Swarley_chan.png",
+        name:"Swarley",
+        frucht:"Zuckerrübe"
+    },
+    {
+        src:"./img/50_IndigoRoseTomate_MrSatanSan.png",
+        name:"Satan",
+        frucht:"Indigo Rose"
+    },
+    {
+        src:"./img/51_Blutorange_jackderrip2.png",
+        name:"Jack",
+        frucht:"Blutorange"
+    },
+    {
+        src:"./img/52_Weizen_Fireflocke.png",
+        name:"Flocke",
+        frucht:"Weizen"
+    },
+    {
+        src:"./img/53_Apfel_HawkTheGerman.png",
+        name:"Hawk",
+        frucht:"Apfel"
+    },
+    {
+        src:"./img/54_Ghostpepper_GhostOfTheCoast_.png",
+        name:"Ghost",
+        frucht:"Ghost Pepper"
+    },
+    {
+        src:"./img/55_Wildgurke_Akiva_kun.png",
+        name:"Akiva",
+        frucht:"Wildgurke"
+    },
+    {
+        src:"./img/56_RoteBeete_Rotwuschel.png",
+        name:"Rotwuschel",
+        frucht:"Rote Bete"
+    },
+    {
+        src:"./img/57_Orange_Jogichu.png",
+        name:"Jogichu",
+        frucht:"Orange"
+    },
+    {
+        src:"./img/58_SchwJohannisbeere_Fenrir_TSS.png",
+        name:"Fenrir_TSS",
+        frucht:"Schwarze Johannisbeere"
+    },
+    {
+        src:"./img/59_Pfirsich_Charming.png",
+        name:"Charming",
+        frucht:"Pfirsich"
+    },
+    {
+        src:"./img/60_Haselnuss_Wuschel.png",
+        name:"Wuschel",
+        frucht:"Haselnuss"
+    },
+    {
+        src:"./img/61_Paprika_Tschang.png",
+        name:"Tschang",
+        frucht:"Paprika"
+    },
+    {
+        src:"./img/62_Kürbis_BastianToGo.png",
+        name:"Bastian",
+        frucht:"Kürbis"
+    },
+    {
+        src:"./img/63_Pfirsich_YokoChan.png",
+        name:"Yoko",
+        frucht:"Pfirsich"
+    },
+    {
+        src:"./img/64_Stachelbeere_T33Tasse.png",
+        name:"T33Tasse",
+        frucht:"Stachelbeere"
+    },
+    {
+        src:"./img/65_Kirsche_Silenette.png",
+        name:"Silenett",
+        frucht:"Kirsche"
     }
-
-    
     
 ]
+
+
 
 lösung.style.display = "none";
 
