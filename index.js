@@ -26,152 +26,152 @@ const shuffleArray = array => {
 const images = [
     
     {
-        src : "./img/1_Wassermelone_BeOddsome.jpg",
+        src : "./img/1_Wassermelone_BeOddsome.png",
         name : "BeOddsome",
         frucht : "Wassermelone"
     },
     {
-        src : "./img/2_Banane_Fenris_Wolf.jpg",
+        src : "./img/2_Banane_Fenris_Wolf.png",
         name : "Fen",
         frucht : "Banane"
     },
     {
-        src : "./img/3_Kiwi_Jen_Tsukase.jpg",
+        src : "./img/3_Kiwi_Jen_Tsukase.png",
         name : "Jen",
         frucht : "Kiwi",
     },
     {
-        src : "./img/4_Blaubeere_Hiveria.jpg",
+        src : "./img/4_Blaubeere_Hiveria.png",
         name: "Ria",
         frucht:"Blaubeere"
     },
     {
-        src : "./img/5_Erdbeere_SnowDrop.jpg",
+        src : "./img/5_Erdbeere_SnowDrop.png",
         name: "Snowii",
         frucht:"Erdbeere"
     },
     {
-        src : "./img/6_Mango_TheKaioken.jpg",
+        src : "./img/6_Mango_TheKaioken.png",
         name: "Kaioken",
         frucht:"Mango"
     },
     {
-        src : "./img/7_Ananas_Klobrillenmann.jpg",
+        src : "./img/7_Ananas_Klobrillenmann.png",
         name: "Klomann",
         frucht:"Ananas"
     },
     {
-        src : "./img/8_Himbeere_Dardroth.jpg",
+        src : "./img/8_Himbeere_Dardroth.png",
         name: "Dardroth",
         frucht:"Himbeere"
     },
     {
-        src : "./img/9_Kirsche_MajinMoo.jpg",
+        src : "./img/9_Kirsche_Majin_Mo.png",
         name: "Mochen",
         frucht:"Kirsche"
     },
     {
-        src : "./img/10_Granatapfel_ScorpiDerSpieler.jpg",
+        src : "./img/10_Granatapfel_ScorpiDerSpieler.png",
         name: "Scorpi",
         frucht:"Granatapfel"
     },
     {
-        src : "./img/11_Orange_Voojah.jpg",
+        src : "./img/11_Orange_Voojah.png",
         name: "Voojah",
         frucht:"Orange"
     },
     {
-        src : "./img/12_Birne_Teflu.jpg",
+        src : "./img/12_Birne_Teflu.png",
         name: "Teflu",
         frucht:"Birne"
     },
     {
-        src : "./img/13_Olive_DieEchteEule.jpg",
+        src : "./img/13_Olive_DieEchteEule.png",
         name: "Eule",
         frucht:"Olive"
     },
     {
-        src : "./img/14_Drachenfrucht_SalxiArt.jpg",
+        src : "./img/14_Drachenfrucht_SalxiArt.png",
         name: "Salxi",
         frucht:"Drachenfrucht"
     },
     {
-        src : "./img/15_Limette_MrNobody.jpg",
+        src : "./img/15_Limette_MrNobody.png",
         name: "Mr.Nobody",
         frucht:"Limette"
     },
     {
-        src : "./img/16_Tomate_mottenkaterchen.jpg",
+        src : "./img/16_Tomate_mottenkaterchen.png",
         name: "Mottenkat",
         frucht:"Tomate"
     },
     {
-        src : "./img/17_Pfirsich_Migelicoius.jpg",
+        src : "./img/17_Pfirsich_Migelicoius.png",
         name: "Mige",
         frucht:"Pfirsich"
     },
     {
-        src : "./img/18_Kiwano_SolomonPhenex.jpg",
+        src : "./img/18_Kiwano_SolomonPhenex.png",
         name: "Phenex",
         frucht:"Kiwano"
     },
     {
-        src : "./img/19_Apfel_LorConan.jpg",
+        src : "./img/19_Apfel_LorConan.png",
         name: "Lor",
         frucht:"Apfel"
     },
     {
-        src : "./img/20_Yuzu_Aviarius.jpg",
+        src : "./img/20_Yuzu_Aviarius.png",
         name: "Avi",
         frucht:"Yuzu"
     },
     {
-        src : "./img/21_Kokosnuss_kashr02.jpg",
+        src : "./img/21_Kokosnuss_kashr02.png",
         name: "Ka$h",
         frucht:"Kokosnuss"
     },
     {
-        src : "./img/22_Nepiheimer_Honigmelone.jpg",
+        src : "./img/22_Nepiheimer_Honigmelone.png",
         name: "Nepi",
         frucht:"Honigmelone"
     },
     {
-        src : "./img/23_Zitrone_Weissmagier.jpg",
+        src : "./img/23_Zitrone_Valhaldera.png",
         name: "Val",
         frucht:"Zitrone"
     },
     {
-        src : "./img/24_Brombeere_Comedio_dana.jpg",
+        src : "./img/24_Brombeere_Comedio_dana.png",
         name: "Dana",
         frucht:"Brombeere"
     },
     {
-        src : "./img/25_Durian_FettesPanda.jpg",
+        src : "./img/25_Durian_FettesPanda.png",
         name: "Panda",
         frucht:"Durian"
     },
     {
-        src : "./img/26_Feige_Frisk.jpg",
+        src : "./img/26_Feige_Frisk.png",
         name: "Frisk",
         frucht:"Feige"
     },
     {
-        src : "./img/27_Kurkuma_curreypulver.jpg",
+        src : "./img/27_Kurkuma_curreypulver.png",
         name: "Currey",
         frucht:"Kurkuma"
     },
     {
-        src:"./img/28_Banane_Frank_the_Tank.jpg",
+        src:"./img/28_Banane_Frank_the_Tank.png",
         name:"Frank",
         frucht :"Banane"
     },
     {
-        src: "./img/29_Kartoffel_Kartoffelknecht123.jpg",
+        src: "./img/29_Kartoffel_Kartoffelknecht123.png",
         name:"Kartoffel",
         frucht:"Kartoffel"
     },
     {
-        src:"./img/30_Pflaume_katanaron.jpg",
+        src:"./img/30_Pflaume_katanaron.png",
         name:"Kata",
         frucht:"Pflaume"
     },
